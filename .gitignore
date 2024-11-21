@@ -1,0 +1,14 @@
+# Ignore node_modules for JavaScript/Node.js projects
+node_modules/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore IDE files (like .vscode or .idea)
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
